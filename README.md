@@ -64,7 +64,7 @@
 <p align="left">
 <a href="https://twitter.com/@h1tarthp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@h1tarthp" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/h1tarth_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="h1tarth_p" height="30" width="40" /></a>
-<a href="https://instagram.com/hitarth.th21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitarth.th21" height="30" width="40" /></a>
+<a href="https://instagram.com/hitar.th21?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitarth.th21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/patelhitarth20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patelhitarth20" height="30" width="40" /></a>
 <a href="https://discord.gg/#7629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7629" height="30" width="40" /></a>
 </p>
