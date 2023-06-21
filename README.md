@@ -39,6 +39,7 @@
 
 - ⚡ Fun fact **I am a lazy but perfect learner 🐨**
 
+-💪 Upcoming/underdevelopement project  **linux-dotfiles , code runer for nvim**
   
 ---------------------------------------------------------------------------------------------------------
 
