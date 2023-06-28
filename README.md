@@ -73,7 +73,7 @@
 
 <details>
 
-<summary><samp><b>&#9776; See more details</b></samp></summary>
+<summary><samp><b>&#9889; About </b></samp></summary>
   </summary>
 
   <!-- Github Trophy -->
