@@ -47,7 +47,7 @@
 ### Languages in which i have working expirience 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,lua,md&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=c,lua,html,css,bash&theme=dark)]()
 
 ### 
 
@@ -56,7 +56,7 @@
 ### Tools i use in my workflow
 
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,blender,neovim,vscode,visualstudio,linux,git,github,ai,vim,bash,replit&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=photoshop,blender,neovim,vscode,visualstudio,linux,git,github,ai,vim,md,replit&theme=dark)]()
 
 ### 
 
